@@ -117,7 +117,7 @@ def display_advice(
 
 
 # =========================
-# MAIN PROGRAM
+# MAIN PROGRAM.
 # =========================
 def main():
     """
@@ -128,7 +128,7 @@ def main():
     - Makes it easier to expand later
     """
 
-    # Dictionary for season advice (replaces if statements)
+    # Dictionary for season advice (replaces if statements.)
     season_advice_dict = {
         "summer": "Water your plants regularly and provide some shade.\n",
         "winter": "Protect your plants from frost with covers.\n",
@@ -147,7 +147,7 @@ def main():
 
     # Dictionary for plant recommendations
     recommendations_dict = {
-        "summer": ["Sunflowers", "Tomatoes", "Peppers"],
+        "summer": ["Sunflowers", "Tomatoes", "Zucchini"],
         "winter": ["Kale", "Spinach", "Broccoli"],
         "spring": ["Roses", "Carrots", "Basil"],
         "autumn": ["Lettuce", "Onions", "Parsley"]
