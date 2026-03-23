@@ -1,5 +1,5 @@
 """
-Garden Advice App
+Garden Advice App.
 
 This program gives gardening advice based on the season and plant type
 entered by the user.
@@ -65,9 +65,9 @@ def get_plant_advice(plant_type, plant_advice_dict):
     )
 
 
-# =========================
-# FUNCTION: RECOMMEND PLANTS
-# =========================
+# ==========================================
+# FUNCTION: RECOMMEND PLANTS FOR THE SEASON.
+# ==========================================
 def get_recommended_plants(season, recommendations_dict):
     """
     Recommend plants based on the season.
